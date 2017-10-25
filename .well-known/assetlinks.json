@@ -1,5 +1,9 @@
 [{
   "relation": ["delegate_permission/common.handle_all_urls"],
-  "target" : { "namespace": "android_app", "package_name": "com.recipe_app",
-               "sha256_cert_fingerprints": ["29:62:91:06:6B:C5:FA:7F:65:72:77:4A:54:A4:EF:2E:27:68:89:51:5F:F1:8A:09:45:F6:3B:0F:4A:59:0B:91"] }
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.rcl.excalibur.guest.rci",
+    "sha256_cert_fingerprints":
+    ["A7:02:EA:FC:47:20:6F:53:EB:39:C5:53:5C:A3:57:40:1F:8E:55:75:E1:2F:B9:AA:4E:04:C1:32:97:53:AB:01"]
+  }
 }]
